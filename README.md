@@ -1,0 +1,1 @@
+# rag-check-auto-discover
