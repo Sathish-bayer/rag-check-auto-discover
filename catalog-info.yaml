@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-rag-check-auto-discover
+  description: rag-auto.
+  annotations:
+    github.com/project-slug: Sathish-bayer/rag-check-auto-discover
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:default/guest
+  lifecycle: experimental
